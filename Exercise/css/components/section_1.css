@@ -1,0 +1,23 @@
+
+.section_1{
+    height: 100%;
+    padding-top: 250px;
+    color: #fff;
+}
+
+.title{
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.text{
+    font-size: 18px;
+    font-weight: 100;
+    color: lightgrey;
+}
+
+.menu:hover{
+    font-weight: 900;
+    text-decoration: underline;
+}

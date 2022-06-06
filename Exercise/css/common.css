@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+    color: #1d1d1d;
+}
+
+.wrap{
+    height: 780px;
+    background-color: beige;
+    background-image: url(https://www.kolpaper.com/wp-content/uploads/2020/03/baby-yoda-wallpaper-3.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header, section{
+    padding: 0 260px;
+}

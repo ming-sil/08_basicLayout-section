@@ -1,0 +1,8 @@
+.section_3{
+    height: 600px;
+    background-image: url(https://www.denofgeek.com/wp-content/uploads/2020/02/baby-yoda-the-child-the-mandalorian-lucasfilm-disney.jpg?resize=768%2C432);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;   
+    background-attachment: fixed;
+}

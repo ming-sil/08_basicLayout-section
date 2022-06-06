@@ -1,0 +1,33 @@
+
+.section_4{
+    margin: 100px 0;
+    /* background-image: url(http://cdn.dealbada.com/data/editor/1612/6072953e8b73699dd248ad2bd3c7ab32_1482302620_7055.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+}
+
+.section_4 .img_wrap{
+    width: 100%;
+    height: 1500px;
+    position: relative;
+}
+
+.section_4 div{
+    width: 550px;
+    height: 600px;
+    overflow: hidden;
+    position: absolute;
+}
+
+.section_4 .img_1{
+    top: 0; left: 0;
+}
+
+.section_4 .img_2{
+    top: 400px; left: 400px;
+}
+
+.section_4 .img_3{
+    bottom: 0; right: 0;
+}

@@ -1,0 +1,48 @@
+
+.section_2{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.section_2 h3{
+    font-size: 40px;
+    font-weight: 900;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.section_2 .con_wrap{
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section_2 .box_wrap{
+    width: 433.3333px;
+}
+
+.section_2 .img_box{
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+
+.section_2 img{
+    width: auto;
+    height: 100%;
+}
+
+.section_2 h4{
+    font-size: 22px;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.section_2 p{
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 22px;
+}
